@@ -7,16 +7,12 @@
 </p>
 
 ---
-<div align="center">
-## About Me
+<div align="center"> 
+  
+## 👋 About Me  
+Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh. I enjoy building clean, modern, and responsive web applications while constantly exploring new technologies and improving my craft. Experienced with *Firebase Authentication, Firestore, and Realtime Database. I love turning ideas into functional interfaces and creating smooth user experiences.
 
-- 🎓 Passionate about building scalable web and mobile applications
-- 💡 Skilled in *Java, JavaScript, Node.js, React, and Android Development*
-- ☁️ Experienced with *Firebase Authentication, Firestore, and Realtime Database*
-- 🎨 Crafting responsive UIs with *Tailwind CSS, **Bootstrap, and **HTML/CSS*
-- ⚙️ Solid foundation in *C/C++* and problem solving
-- 🔭 Currently diving deeper into backend architecture & cloud integration
-- ✍️ Always learning, always growing 
+✍️ Always learning, always growing 
 
 ---
 
