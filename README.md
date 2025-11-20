@@ -17,6 +17,7 @@ Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh
 ---
 
 <div align="center">
+  
 ## 🛠️ Skills & Tools  
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
 </div>
@@ -24,6 +25,7 @@ Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh
 ---
 
 <p align="center">
+  
 ## 📈 GitHub Stats
 
   <img src="https://github-readme-stats.vercel.app/api?username=jahangir2k25&show_icons=true&theme=github_dark" alt="jahangir2k25 GitHub stats" />
@@ -34,6 +36,7 @@ Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh
 ---
 
 <div align="center">
+  
 ## 🔗 Connect With Me  
 
 <a href="https://www.linkedin.com/in/jahangir-hosain-bb1a31344/">
@@ -56,6 +59,7 @@ Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh
 ---
 
 <div align="center">
+  
 ## 💬 Personal Motto
 
 > "Build with passion, learn with curiosity, and share with purpose."
