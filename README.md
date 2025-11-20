@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:00FFFF,100:39D353&height=200&section=header&text=JAHANGIR%20HOSAIN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20Firebase%20CloudFanatic&descAlignY=55&descSize=20" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:39D353,50:30FFFF,100:39D353&height=200&section=header&text=JAHANGIR%20HOSAIN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20Firebase%20CloudFanatic&descAlignY=55&descSize=20" />
 
 <p align="center">
   <a href="https://github.com/jahangir2k25">
