@@ -60,8 +60,6 @@ Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh
 
 <div align="center">
   
-## 💬 Personal Motto
-
 > "Build with passion, learn with curiosity, and share with purpose."
 
 <!-- 🌊 Footer Wave -->
