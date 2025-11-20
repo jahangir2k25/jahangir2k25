@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=JAHANGIR%20HOSAIN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast&descAlignY=55&descSize=20" />
+
 <h1 align="center">Hi there , I'm JAHANGIR RAJ</h1>
 <h3 align="center">Full-Stack Developer | Android Enthusiast | Firebase & Cloud Fanatic</h3>
 
@@ -49,20 +51,26 @@
 
 ---
 
-## 🔗 Connect with Me
+## 🔗 Connect With Me  
+<div align="center">
 
-<p>
-  <a href="jahangirraj31@gmail.com">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/YOUR-FACEBOOK" target="_blank">
-    <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" />
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/jahangir-hosain-bb1a31344/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 15px;" />
+</a>
 
+<a href="https://github.com/jahangir2k25">
+  <img src="https://skillicons.dev/icons?i=github" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="mailto:jahangirraj31@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="https://www.facebook.com/">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
+</a>
+
+</div>
 ---
 
 ## 💬 Personal Motto
