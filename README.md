@@ -26,11 +26,11 @@ Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh
 
 <p align="center">
   
-## 📈 GitHub Stats
+## 📈 GitHub Status
 
-  <img src="https://github-readme-stats.vercel.app/api?username=jahangir2k25&show_icons=true&theme=github_dark" alt="jahangir2k25 GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?user=jahangir2k25&show_icons=true&theme=github_dark" alt="jahangir2k25 GitHub stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=jahangir2k25&theme=github-dark&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir2k25s-projects&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=jahangir2k25s-projects&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
