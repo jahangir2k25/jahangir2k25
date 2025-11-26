@@ -1,66 +1,66 @@
-<h1 align="center">Hi 👋, I'm Jahangir Hosain</h1>
-<h3 align="center">Frontend Developer | JavaScript | React | Bootstrap</h3>
-
----
-
-## 🚀 About Me
-- 🌱 I’m currently learning **React, Next.js**
-- 💼 Working on modern frontend projects
-- 💬 Ask me about **HTML, CSS, Bootstrap, JavaScript**
-- ⚡ Fun fact: I love coding clean UI designs
-
----
-
-## 📌 Connect with me
-<p align="left">
-<a href="https://facebook.com/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white">
-</a>
-<a href="https://github.com/jahangir2k25" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-</a>
-</p>
-
----
-
-<h2 align="center">📈 GitHub Status</h2>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=200&section=header&text=JAHANGIR%20HOSAIN&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=28&desc=Frontend%20Developer%20|%20React%20Enthusiast%20|%20Firebase%20CloudFanatic&descAlignY=55&descSize=20" />
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jahangir2k25&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <a href="https://github.com/jahangir2k25">
+    <img src="https://komarev.com/ghpvc/?username=jahangir2k25&label=Profile%20views&color=0e75b6&style=flat" alt="jahangir2k25" />
+  </a>
+</p>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com?username=jahangir2k25&theme=github-dark" alt="GitHub Streak" />
+---
+<div align="center"> 
+  
+## 👋 About Me  
+Hi! I'm **JAHANGIR HOSAIN**, a passionate **Frontend Developer** from Bangladesh. I enjoy building clean, modern, and responsive web applications while constantly exploring new technologies and improving my craft. Experienced with *Firebase Authentication, Firestore, and Realtime Database. I love turning ideas into functional interfaces and creating smooth user experiences.
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahangir2k25&layout=compact&theme=github_dark" alt="Top Languages" />
+✍️ Always learning, always growing 
+
+---
+
+<div align="center">
+  
+## 🛠️ Skills & Tools  
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,nodejs,express,mongodb,firebase,git,github,vscode,figma" />
+</div>
+
+---
+
+<p align="center">
+  
+## 📈 GitHub Status
+
+  <img src="https://github-readme-stats.vercel.app/api?user=jahangir2k25&show_icons=true&theme=github_dark" alt="jahangir2k25 GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=jahangir2k25&theme=github-dark&hide_border=false" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?user=jahangir2k25s-projects&layout=compact&theme=github_dark" alt="Top Langs" />
 </p>
 
 ---
 
-## 🛠️ Skills
-### **Frontend**
-<p>
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-0EA5E9?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
+<div align="center">
+  
+## 🔗 Connect With Me  
 
-### **Tools**
-<p>
-<img src="https://img.shields.io/badge/Git-F14E32?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
+<a href="https://www.linkedin.com/in/jahangir-hosain-bb1a31344/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="45" style="margin-right: 15px;" />
+</a>
 
+<a href="https://github.com/jahangir2k25">
+  <img src="https://skillicons.dev/icons?i=github" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="mailto:jahangirraj31@gmail.com">
+  <img src="https://skillicons.dev/icons?i=gmail" height="45" style="margin-right: 15px;" />
+</a>
+
+<a href="https://www.facebook.com/">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" height="45" />
+</a>
+
+</div>
 ---
 
-## 🧩 Projects
-- 🔗 [Portfolio Website](#)
-- 🔗 [JavaScript Projects](#)
-- 🔗 [Bootstrap UI Designs](#)
+<div align="center">
+  
+> "Build with passion, learn with curiosity, and share with purpose."
 
----
-
-## ❤️ Support
-If you like my work, consider giving ⭐ to my repositories!
-
+<!-- 🌊 Footer Wave -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6A00F4,50:00E5FF,100:6A00F4&height=120&section=footer" />
